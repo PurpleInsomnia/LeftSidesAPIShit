@@ -1,2 +1,2 @@
 spoon
-elk
+elk-thumbs-up
