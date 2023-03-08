@@ -1,4 +1,4 @@
-ai 1
+ai-1
 dad
 elk-thumbs-up
 manokit
