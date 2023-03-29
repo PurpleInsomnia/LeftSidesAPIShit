@@ -1,6 +1,6 @@
 {
 	"artist": "PurpleInsomnia",
 	"title": "Test",
-	"color": "0xFFF5C301",
+	"color": [255, 204, 0],
 	"downloadMessage": "Thanks for downloading the test song!!"
 }
