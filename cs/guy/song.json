@@ -1,6 +1,6 @@
 {
 	"artist": "PurpleInsomnia",
 	"title": "Guy",
-	"color": "0xFF2B96FF",
+	"color": [0, 201, 201],
 	"downloadMessage": "And why he real?"
 }
