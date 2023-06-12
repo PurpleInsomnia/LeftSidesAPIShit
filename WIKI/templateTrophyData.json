@@ -1,0 +1,10 @@
+{
+    "sectionName": "NAME",
+    "trophies": [
+        {
+            "name": "Trophy Name",
+            "desc": "Trophy Description",
+            "icon": "an image located in the 'images/achievements' folder"
+        }
+    ]
+}
